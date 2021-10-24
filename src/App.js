@@ -3,6 +3,7 @@ import "./App.css";
 
 function App() {
   console.log("Original warning");
+  console.log("Only display this warning as it's part of this PR");
   return (
     <div className="App">
       <header className="App-header">
